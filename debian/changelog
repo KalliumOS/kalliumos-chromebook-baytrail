@@ -1,0 +1,6 @@
+kalliumos-chromebook-baytrail (22.04) phoenix; urgency=medium
+
+  * Should create something that works on a Bay Trail Chromebook (CB3-131)
+
+ -- Kraslin <git@kraslovision.com>  Sat, 20 Jan 2024 20:31:10 -0500
+

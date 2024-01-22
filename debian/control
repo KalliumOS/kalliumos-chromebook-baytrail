@@ -1,0 +1,15 @@
+Source: kalliumos-chromebook-baytrail
+Section: admin
+Priority: optional
+Maintainer: KalliumOS <git@kraslovision.com>
+Build-Depends: debhelper (>= 9.20160709)
+Standards-Version: 3.9.6
+
+Package: kalliumos-chromebook-baytrail
+Provides: chromebook 
+Architecture: all
+Priority: optional
+Depends: ${misc:Depends}, galliumos-chromebook, kalliumos-desktop
+Description: GalliumOS for a BayTrail Chromebook 
+ Should result in a GalliumOS system that works on a BayTrail Chromebook
+
