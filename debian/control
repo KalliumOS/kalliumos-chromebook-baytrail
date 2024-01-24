@@ -9,7 +9,7 @@ Package: kalliumos-chromebook-baytrail
 Provides: chromebook 
 Architecture: all
 Priority: optional
-Depends: ${misc:Depends}, galliumos-chromebook, kalliumos-desktop
+Depends: ${misc:Depends}, galliumos-chromebook
 Description: GalliumOS for a BayTrail Chromebook 
  Should result in a GalliumOS system that works on a BayTrail Chromebook
 
